@@ -33,3 +33,5 @@
 - 비재무 데이터 수집 방법 미숙 -> 주어진 데이터는 굉장히 구체적으로 기업들의 특징이 기재되어 있었는데 이를 이용하여 일대일 매칭의 비재무 데이터를 수집했으면 더 좋은 결과를 보여줬을 것으로 생각되어짐
 - 비재무 데이터 활용 방안 부족 -> 해당 모델을 활용하여 구체적인 방향성을 제시한 팀이 좋은 점수를 받았음
 - ESG 데이터 활용성 -> 우리 팀같은 경우 ESG 데이터를 계획 단계에서 사용하지 않기로 결정하였는데, 해당 데이터를 중소 기업에 맞게끔 변형할수 있는 방안이 존재하였음
+### [최종 보고서(pdf)](https://github.com/billkim418/Numble_Comepetitions/blob/main/ppt/%5BNICE%20DNB%5D%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B3%A8%EB%AA%A9%EB%8C%80%EC%9E%A5.pdf) 
+### [최종 ppt](https://github.com/billkim418/Numble_Comepetitions/blob/main/ppt/%5BNICE%20DNB%5D%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B3%A8%EB%AA%A9%EB%8C%80%EC%9E%A5.pptx)
