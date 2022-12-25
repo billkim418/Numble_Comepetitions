@@ -5,7 +5,6 @@
 - 팀원 : 김홍범 - 1대장, 이태영 - 2대장, 하연진 - 3대장
 - 분석 목적 : 미시경제, 거시경제, 인적자원 관점의 다양한 파생변수를 기반으로 중소기업의 휴폐업을 예측하고 유의미한 지표를 발굴하며 최적화된 휴폐업 예측 모델 개발을 목적으로 함
 - 데이터 : 재무 데이터(NICE DNB 제공) + 비재무 데이터(크롤링을 통한 수집)
-- 데이터의 경우 보안문제로 업로드 하지 않았음을 밝힙니다.
 ## Project flow
 1. 프로젝트 개요
 - 프로젝트 목적
@@ -37,3 +36,6 @@
 - ESG 데이터 활용성 -> 우리 팀같은 경우 ESG 데이터를 계획 단계에서 사용하지 않기로 결정하였는데, 해당 데이터를 중소 기업에 맞게끔 변형할수 있는 방안이 존재하였음
 ### [최종 보고서(pdf)](https://github.com/billkim418/Numble_Comepetitions/blob/main/ppt/%5BNICE%20DNB%5D%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B3%A8%EB%AA%A9%EB%8C%80%EC%9E%A5.pdf) 
 ### [최종 ppt](https://github.com/billkim418/Numble_Comepetitions/blob/main/ppt/%5BNICE%20DNB%5D%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B3%A8%EB%AA%A9%EB%8C%80%EC%9E%A5.pptx)
+---
+### 데이터의 경우 보안문제로 업로드 하지 않았음을 밝힙니다.
+
