@@ -2,7 +2,7 @@
 ---
 ## Project Overview
 - 팀명 : 골목대장
-- 팀원 : 김홍범 - 1대장, 이태영 - 2대장, 하연진 - 3대장
+- 팀원 : [김홍범](https://github.com/billkim418) - 1대장, [이태영](https://github.com/epzlfnql) - 2대장, [하연진](https://github.com/YeonJin55) - 3대장
 - 분석 목적 : 미시경제, 거시경제, 인적자원 관점의 다양한 파생변수를 기반으로 중소기업의 휴폐업을 예측하고 유의미한 지표를 발굴하며 최적화된 휴폐업 예측 모델 개발을 목적으로 함
 - 데이터 : 재무 데이터(NICE DNB 제공) + 비재무 데이터(크롤링을 통한 수집)
 ## Project flow
